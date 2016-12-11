@@ -1,0 +1,10 @@
+C:\Users\Filip\Documents\FER\C#\Labosi\RAUPJC-3DZ\RAUPJC-3DZ\Zadatak1\bin\Debug\Zadatak1.dll.config
+C:\Users\Filip\Documents\FER\C#\Labosi\RAUPJC-3DZ\RAUPJC-3DZ\Zadatak1\bin\Debug\Zadatak1.dll
+C:\Users\Filip\Documents\FER\C#\Labosi\RAUPJC-3DZ\RAUPJC-3DZ\Zadatak1\bin\Debug\Zadatak1.pdb
+C:\Users\Filip\Documents\FER\C#\Labosi\RAUPJC-3DZ\RAUPJC-3DZ\Zadatak1\bin\Debug\EntityFramework.dll
+C:\Users\Filip\Documents\FER\C#\Labosi\RAUPJC-3DZ\RAUPJC-3DZ\Zadatak1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Filip\Documents\FER\C#\Labosi\RAUPJC-3DZ\RAUPJC-3DZ\Zadatak1\bin\Debug\EntityFramework.xml
+C:\Users\Filip\Documents\FER\C#\Labosi\RAUPJC-3DZ\RAUPJC-3DZ\Zadatak1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Filip\Documents\FER\C#\Labosi\RAUPJC-3DZ\RAUPJC-3DZ\Zadatak1\obj\Debug\Zadatak1.csprojResolveAssemblyReference.cache
+C:\Users\Filip\Documents\FER\C#\Labosi\RAUPJC-3DZ\RAUPJC-3DZ\Zadatak1\obj\Debug\Zadatak1.dll
+C:\Users\Filip\Documents\FER\C#\Labosi\RAUPJC-3DZ\RAUPJC-3DZ\Zadatak1\obj\Debug\Zadatak1.pdb

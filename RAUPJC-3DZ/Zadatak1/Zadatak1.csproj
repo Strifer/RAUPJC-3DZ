@@ -49,8 +49,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="Database\TodoDbContext.cs" />
+    <Compile Include="Database\TodoSqlRepository.cs" />
     <Compile Include="Interfaces\ITodoRepository.cs" />
+    <Compile Include="Models\DuplicateTodoItemException.cs" />
+    <Compile Include="Models\TodoAccessDeniedException.cs" />
     <Compile Include="Models\TodoItem.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
